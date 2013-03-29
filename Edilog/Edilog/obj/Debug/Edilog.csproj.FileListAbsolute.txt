@@ -1,5 +1,0 @@
-D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\Edilog\bin\Edilog.dll
-D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\Edilog\bin\Edilog.pdb
-D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\Edilog\obj\Debug\Edilog.csprojResolveAssemblyReference.cache
-D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\Edilog\obj\Debug\Edilog.dll
-D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\Edilog\obj\Debug\Edilog.pdb
