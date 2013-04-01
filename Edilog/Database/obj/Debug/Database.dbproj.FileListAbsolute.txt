@@ -1,0 +1,8 @@
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\Database\sql\debug\Database_Script.PreDeployment.sql
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\Database\sql\debug\Database_Script.PostDeployment.sql
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\Database\sql\debug\Database_Database.sqlsettings
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\Database\sql\debug\Database_Database.sqldeployment
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\Database\sql\debug\Database_Database.sqlcmdvars
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\Database\sql\debug\Database.deploymanifest
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\Database\sql\debug\Database.dbschema
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\Database\obj\Debug\Database.dbschema

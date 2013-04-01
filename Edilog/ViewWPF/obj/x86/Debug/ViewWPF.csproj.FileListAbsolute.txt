@@ -1,0 +1,11 @@
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ViewWPF\bin\Debug\ViewWPF.exe
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ViewWPF\bin\Debug\ViewWPF.pdb
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ViewWPF\obj\x86\Debug\MainWindow.baml
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ViewWPF\obj\x86\Debug\MainWindow.g.cs
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ViewWPF\obj\x86\Debug\App.g.cs
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ViewWPF\obj\x86\Debug\ViewWPF_MarkupCompile.cache
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ViewWPF\obj\x86\Debug\ViewWPF.g.resources
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ViewWPF\obj\x86\Debug\ViewWPF.Properties.Resources.resources
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ViewWPF\obj\x86\Debug\ViewWPF.csproj.GenerateResource.Cache
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ViewWPF\obj\x86\Debug\ViewWPF.exe
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ViewWPF\obj\x86\Debug\ViewWPF.pdb

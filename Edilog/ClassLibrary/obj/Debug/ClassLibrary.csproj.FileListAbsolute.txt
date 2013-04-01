@@ -1,0 +1,4 @@
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ClassLibrary\obj\Debug\ClassLibrary.pdb

@@ -6,47 +6,151 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
     <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <!-- CSS -->
+	<link rel="stylesheet" href="Styles/style.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="Styles/social-icons.css" type="text/css" media="screen" />
+	<!-- ENDS CSS -->	
+		
+	<!--[if IE]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<!-- ENDS JS -->
+		
+	<!-- JS -->
+	<script type="text/javascript" src="Scripts/jquery.min.js"></script>
+	<script type="text/javascript" src="Scripts/custom.js"></script>
+	<script type="text/javascript" src="Scripts/slider.js"></script>
+	<script type="text/javascript" src="Scripts/slides/source/slides.min.jquery.js"></script>
+	<script type="text/javascript" src="Scripts/quicksand.js"></script>
+		
+	<!-- superfish -->
+	<link rel="stylesheet" media="screen" href="Styles/superfish.css" /> 
+	<script type="text/javascript" src="Scripts/superfish-1.4.8/js/hoverIntent.js"></script>
+	<script type="text/javascript" src="Scripts/superfish-1.4.8/js/superfish.js"></script>
+	<script type="text/javascript" src="Scripts/superfish-1.4.8/js/supersubs.js"></script>
+	<!-- ENDS superfish -->
+
+	<!-- poshytip -->
+	<link rel="stylesheet" href="Scripts/poshytip-1.0/src/tip-twitter/tip-twitter.css" type="text/css" />
+	<link rel="stylesheet" href="Scripts/poshytip-1.0/src/tip-yellowsimple/tip-yellowsimple.css" type="text/css" />
+	<script type="text/javascript" src="Scripts/poshytip-1.0/src/jquery.poshytip.min.js"></script>
+	<!-- ENDS poshytip -->
+		
+	<!-- Tweet -->
+	<link rel="stylesheet" href="Styles/jquery.tweet.css" media="all"  type="text/css"/> 
+	<script src="Scripts/tweet/jquery.tweet.js" type="text/javascript"></script> 
+	<!-- ENDS Tweet -->
+		
+	<!-- prettyPhoto -->
+	<script type="text/javascript" src="Scripts/prettyPhoto/js/jquery.prettyPhoto.js"></script>
+	<link rel="stylesheet" href="Scripts/prettyPhoto/css/prettyPhoto.css" type="text/css" media="screen" />
+	<!-- ENDS prettyPhoto -->
+		
+	<!-- GOOGLE FONTS -->
+	<link href='http://fonts.googleapis.com/css?family=Droid+Serif:400italic' rel='stylesheet' type='text/css' />
     <asp:ContentPlaceHolder ID="HeadContent" runat="server">
     </asp:ContentPlaceHolder>
 </head>
 <body>
     <form runat="server">
-    <div class="page">
-        <div class="header">
-            <div class="title">
-                <h1>
-                    Mon application ASP.NET
-                </h1>
-            </div>
-            <div class="loginDisplay">
-                <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
-                    <AnonymousTemplate>
-                        [ <a href="~/Account/Login.aspx" ID="HeadLoginStatus" runat="server">Se connecter</a> ]
-                    </AnonymousTemplate>
-                    <LoggedInTemplate>
-                        Bienvenue <span class="bold"><asp:LoginName ID="HeadLoginName" runat="server" /></span>!
-                        [ <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Se déconnecter" LogoutPageUrl="~/"/> ]
-                    </LoggedInTemplate>
-                </asp:LoginView>
-            </div>
-            <div class="clear hideSkiplink">
-                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
-                    <Items>
-                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Accueil"/>
-                        <asp:MenuItem NavigateUrl="~/About.aspx" Text="À propos de"/>
-                    </Items>
-                </asp:Menu>
-            </div>
+		<div id="top-gap"></div>
+        <!-- wrapper -->
+		<div class="wrapper">
+		
+			<a href="Default.aspx"><img id="logo" src="img/logo.png" alt="Edilog"/></a>
+			
+			<!-- nav bar holder -->
+			<div id="nav-bar-holder">
+				<!-- Navigation -->
+				<ul id="nav" class="sf-menu">
+					<li class="current-menu-item"><a href="Default.aspx">Accueil</a></li>
+					<li><a href="gallery.html">Gallery</a></li>
+					<li><a href="page.html">Pages</a>
+						<ul>
+							<li><a href="page.html">Sidebar page</a></li>
+							<li><a href="page-fullwidth.html">Fullwidth page</a></li>
+						</ul>
+					</li>
+					<li><a href="portfolio.html">Portfolio posts</a></li>
+					<li><a href="blog.html">Blog</a></li>
+					<li><a href="contact.html">Contact</a></li>
+				</ul>
+				<!-- ENDS Navigation -->
+				
+				<!-- Social -->
+				<ul class="social">
+					<li><a href="http://www.facebook.com" class="poshytip  facebook" title="Become a fan"></a></li>
+					<li><a href="http://www.twitter.com" class="poshytip  twitter" title="Follow my tweets"></a></li>
+					<li><a href="http://www.dribbble.com" class="poshytip  dribbble" title="Working on..."></a></li>
+				</ul>
+				<!-- ENDS Social -->
+			</div>
+			<!-- ENDS nav bar holder -->
+				
+			<!-- content wrap -->	    	
+	        <div id="content-wrap">
+                <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+                 </div>
+	        <!-- ENDS content wrap -->
         </div>
-        <div class="main">
-            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
-        </div>
-        <div class="clear">
-        </div>
-    </div>
-    <div class="footer">
-        
-    </div>
+		<!-- ENDS Wrapper -->
+   <!-- FOOTER -->
+		<div id="footer">
+			<div class="footer-wrapper">
+				
+				
+				<!-- footer-cols -->
+				<ul id="footer-cols">
+					<li>
+						<h6>About the theme</h6>
+						<p>Pellentesque accumsan porttitor, accumsan porttitor ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Tincidunt quis, accumsan porttitor facilisis habitant morbi tristique senectus accumsan porttitor et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam,  Aenean ultricies mi vitae est. Tincidunt quis feugiat vitae.</p> 
+						<p>Accumsan porttitor ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Tincidunt quis, accumsan porttitor, <a href="http://luiszuno.com">luiszuno.com</a>.</p>
+					</li>
+					<li>
+						<h6>Categories</h6>
+						<ul>
+							<li><a href="#">Webdesign in this era</a></li>
+							<li><a href="#/">Wordpress core techniques</a></li>
+							<li><a href="#">Photo editing</a></li>
+							<li><a href="#">Code in php</a></li>
+							<li><a href="#">Drawings by hand</a></li>
+							<li><a href="#">Buy Themeforest items</a></li>
+							<li><a href="#">Lorem ipsum dolor amet</a></li>
+							<li><a href="#">Tincidunt quis, accumsan porttitor</a></li>
+							<li><a href="#">Donec eu libero sit amet quam</a></li>
+						</ul>
+					</li>
+					<li>
+						<div id="tweets" class="footer-col tweet">
+	         				<h6>Twitter widget</h6>
+	         			</div>
+					</li>
+				</ul>
+				<!-- ENDS footer-cols -->
+				
+				<div id="footer-glare"></div>
+				
+			</div>
+		</div>
+		<!-- ENDS FOOTER -->
+		
+		<!-- footer-bottom -->
+		<div id="footer-bottom">
+			<div class="bottom-wrapper">
+				<div id="bottom-left">
+					&copy; 2011 Ansimuz.  <a href="http://themeforest.net/user/Ansimuz?ref=ansimuz">View portfolio</a>
+				</div>
+				<div id="bottom-right">
+					<ul id="footer-nav">
+						<li><a href="index.html">Home</a></li>
+						<li><a href="gallery.html">Gallery</a></li>
+						<li><a href="page.html">Pages</a>
+						<li><a href="page.html">Contact</a>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- ENDS footer-bottom -->
     </form>
 </body>
 </html>

@@ -1,0 +1,4 @@
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\WebserviceWCF\bin\WebserviceWCF.dll
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\WebserviceWCF\bin\WebserviceWCF.pdb
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\WebserviceWCF\obj\Debug\WebserviceWCF.dll
+D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\WebserviceWCF\obj\Debug\WebserviceWCF.pdb
