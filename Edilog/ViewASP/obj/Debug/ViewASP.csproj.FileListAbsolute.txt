@@ -2,3 +2,7 @@ D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ViewASP\bin\ViewASP.dll
 D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ViewASP\bin\ViewASP.pdb
 D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ViewASP\obj\Debug\ViewASP.dll
 D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ViewASP\obj\Debug\ViewASP.pdb
+C:\Users\Vincent\Documents\GitHub\glprojet\Edilog\ViewASP\bin\ViewASP.dll
+C:\Users\Vincent\Documents\GitHub\glprojet\Edilog\ViewASP\bin\ViewASP.pdb
+C:\Users\Vincent\Documents\GitHub\glprojet\Edilog\ViewASP\obj\Debug\ViewASP.dll
+C:\Users\Vincent\Documents\GitHub\glprojet\Edilog\ViewASP\obj\Debug\ViewASP.pdb

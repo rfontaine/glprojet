@@ -9,3 +9,14 @@ D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ViewWPF\obj\x86\Debug\ViewW
 D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ViewWPF\obj\x86\Debug\ViewWPF.csproj.GenerateResource.Cache
 D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ViewWPF\obj\x86\Debug\ViewWPF.exe
 D:\Mes documents\EPSI\Cours\CSII2\GL\glprojet\Edilog\ViewWPF\obj\x86\Debug\ViewWPF.pdb
+C:\Users\Vincent\Documents\GitHub\glprojet\Edilog\ViewWPF\bin\Debug\ViewWPF.exe
+C:\Users\Vincent\Documents\GitHub\glprojet\Edilog\ViewWPF\bin\Debug\ViewWPF.pdb
+C:\Users\Vincent\Documents\GitHub\glprojet\Edilog\ViewWPF\obj\x86\Debug\MainWindow.baml
+C:\Users\Vincent\Documents\GitHub\glprojet\Edilog\ViewWPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Vincent\Documents\GitHub\glprojet\Edilog\ViewWPF\obj\x86\Debug\App.g.cs
+C:\Users\Vincent\Documents\GitHub\glprojet\Edilog\ViewWPF\obj\x86\Debug\ViewWPF_MarkupCompile.cache
+C:\Users\Vincent\Documents\GitHub\glprojet\Edilog\ViewWPF\obj\x86\Debug\ViewWPF.g.resources
+C:\Users\Vincent\Documents\GitHub\glprojet\Edilog\ViewWPF\obj\x86\Debug\ViewWPF.Properties.Resources.resources
+C:\Users\Vincent\Documents\GitHub\glprojet\Edilog\ViewWPF\obj\x86\Debug\ViewWPF.csproj.GenerateResource.Cache
+C:\Users\Vincent\Documents\GitHub\glprojet\Edilog\ViewWPF\obj\x86\Debug\ViewWPF.exe
+C:\Users\Vincent\Documents\GitHub\glprojet\Edilog\ViewWPF\obj\x86\Debug\ViewWPF.pdb
