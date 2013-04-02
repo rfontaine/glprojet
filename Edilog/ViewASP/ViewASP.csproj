@@ -641,6 +641,7 @@
     <Content Include="Site.Master" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
     <None Include="img\.DS_Store" />
     <None Include="img\bg\.DS_Store" />
     <None Include="img\bg\Thumbs.db" />
